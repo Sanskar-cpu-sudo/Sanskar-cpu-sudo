@@ -1,6 +1,6 @@
 <!-- ===================== HEADER WAVE ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hi%20There%2C%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hi%20There%2C%20I'm%20Sanskar%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20And%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
@@ -30,10 +30,15 @@
 I'm a Machine Learning & Agentic AI Engineer who also builds full-stack apps end to end. I like turning ideas into working systems — from training a model to shipping the product around it.
 
 🧠 ML/AI: Generative AI, Agentic AI systems, LangChain & LangGraph pipelines, scikit-learn, TensorFlow, and AI Security practices
+
 💻 Languages: C++, Java, JavaScript, Python, C
+
 🌐 Full-Stack: MERN (MongoDB, Express, React, Node.js)
+
 🗄️ Databases: MySQL, MongoDB, PostgreSQL
+
 🔍 Strengths: problem-solving, DSA, building agentic workflows, and securing AI systems
+
 
 ---
 
