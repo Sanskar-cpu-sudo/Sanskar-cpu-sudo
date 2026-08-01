@@ -87,15 +87,6 @@ I'm a Machine Learning & Agentic AI Engineer who also builds full-stack apps end
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskar-cpu-sudo&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
----
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanskar-cpu-sudo/Sanskar-cpu-sudo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 > To enable the snake animation above, add the workflow from
 > [Platane/snk](https://github.com/Platane/snk) to a repo named exactly like your username
