@@ -88,9 +88,6 @@ I'm a Machine Learning & Agentic AI Engineer who also builds full-stack apps end
 </p>
 
 
-> To enable the snake animation above, add the workflow from
-> [Platane/snk](https://github.com/Platane/snk) to a repo named exactly like your username
-> (a special "profile repo"). It auto-generates the SVG shown here from your contribution graph.
 
 ---
 
